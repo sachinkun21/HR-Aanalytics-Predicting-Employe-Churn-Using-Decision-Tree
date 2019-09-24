@@ -2,8 +2,8 @@
 Among all of the business domains, HR is still the least disrupted. However, the latest developments in data collection and analysis tools and technologies - allow for data driven decision-making in all dimensions, including HR. 
 - This Tutorial will provide a solid basis for dealing with employee data and developing a predictive model to analyze employee turnover.
 
-### What is HR Analyitcs:
-- Data driven approach to manage people at work
+### What is HR Analytics:
+- Data driven approach to manage people in organization.
 
 #### Problems in HR Department:
 - Hiring and Assessment

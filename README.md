@@ -26,3 +26,6 @@ In this, we will concentrate on Employee Turnover production which is related to
 #### Advantages of prediction Turnover beforehand:
 - We can identify good workers and change the strategy in order to Retain them
 - We can also start the hiring process of new employees on time
+
+
+# Decision Tree

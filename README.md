@@ -6,9 +6,7 @@ Human Resource analytics (HR Analytics) is defined as the area in the field of a
 
 It Allows for data driven decision-making in all dimensions related to Employee Management.
 This DataTale will give you a solid understanding of dealing with employee data and developing a predictive model to analyze employee turnover.
-Among all of the business domains, HR is still the least disrupted. However, the latest developments in data collection and analysis tools and technologies - allow for data driven decision-making in all dimensions of HR
-
-- Data driven approach to manage people in organization.
+Among all of the business domains, HR is still the least disrupted. However, the latest developments in data collection and analysis tools and technologies - allow for data driven decision-making in all dimensions of HR.
 
 #### Problems in HR Department:
 - Hiring and Assessment
